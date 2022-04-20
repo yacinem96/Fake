@@ -1,0 +1,29 @@
+html{scroll-behavior:smooth}body{font-family:sans-serif;overflow-x:hidden}#app{padding:0}.header{position:sticky;top:0}.social-link{text-decoration:none;margin:0 5px}.footer{margin-top:60px;padding:15px;text-align:center}.footer a{text-decoration:none;margin:0 10px}
+/*# sourceMappingURL=/styles.ae9c3a27.css.map */
+
+.icons a i{
+    display: inline-block;
+    font-style: normal;
+    font-size: 1.5em;
+    color: white;
+    transition: 5;
+}
+
+a .fa-facebook-square:hover{
+    color: #3B5998 !important;
+    transform: scale(1.2);
+    
+   
+}
+a .fa-instagram-square:hover{
+    color: #d74ccb !important;
+    transform: scale(1.2);
+    
+   
+}
+a .fa-twitter:hover{
+    color: #1DA1F2 !important;
+    transform: scale(1.2);
+    
+   
+}
